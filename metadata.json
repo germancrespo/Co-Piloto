@@ -1,0 +1,6 @@
+{
+  "name": "Asistente de Conducción y Alertas de Ruta",
+  "description": "Co-piloto inteligente de ruta con alertas climáticas, estado de peajes, zonas de congestión, soporte de voz manos libres, música, y alertas de seguridad en voz alta.",
+  "requestFramePermissions": ["microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
